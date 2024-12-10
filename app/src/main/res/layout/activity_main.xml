@@ -7,6 +7,18 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <EditText
+        android:id="@+id/search_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Buscar destino"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@android:drawable/edit_text"
+        android:inputType="text"
+        android:layout_alignParentTop="true"
+        tools:ignore="MissingConstraints" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
