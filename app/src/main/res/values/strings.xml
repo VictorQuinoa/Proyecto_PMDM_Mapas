@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProyectoMapas</string>
+    <string name="api_key">ProyectoMapas</string>
 </resources>
