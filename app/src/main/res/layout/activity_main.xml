@@ -17,7 +17,7 @@
         android:id="@+id/formContainer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
         android:background="#DDFFFFFF"
         android:padding="16dp"
         android:orientation="vertical"
